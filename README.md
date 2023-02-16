@@ -1,4 +1,4 @@
-# TECH TEST
+# TECH TEST (ANAGRAMMA)
 
 ## Obiettivo
 Verificare che un anagramma di una stringa sia contenuto in un'altra stringa.
