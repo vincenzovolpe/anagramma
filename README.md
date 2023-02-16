@@ -20,8 +20,8 @@ Assumi che:
  - Il controllo sia case-insensitive.
 
 ### Esempio
-Date due stringhe A = "abc" e B = "itookablackcab" lo script stamper� a video
-"vero", poich� anagrammando A si pu� trovare una occorrenza di "cab" nella
+Date due stringhe A = "abc" e B = "itookablackcab" lo script stamperà a video
+"vero", poichè anagrammando A si può trovare una occorrenza di "cab" nella
 stringa B.
 
 ## Demo funzionante online
