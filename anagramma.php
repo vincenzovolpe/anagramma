@@ -27,7 +27,7 @@ class ANAGRAMMA
 	}	
 
     /* Metodo per controllare se la stringa s2 contiene l'anagramma della stringa s1 come sua sottostringa */
-    public function anagramma($s1, $s2)
+    public function anagramma(string $s1, string $s2): bool
     {   
         // Variabile usata per memorizzare l'anagramma eventualmente trovato in una sottostringa della seconda stringa inserita a video dall' utente
         global $anagramma_trovato;
