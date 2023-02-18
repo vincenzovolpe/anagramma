@@ -23,7 +23,7 @@
     <h1 class="display-5 fw-bold text-center">TECH TEST</h1>
     <div class="col-lg-5 mx-auto">
       <p class="lead mb-4 text-center">Verificare che un anagramma di una stringa sia contenuto in un'altra stringa.</p>
-      
+      <p class="text-center">(Inserire solo lettere dell'alfabeto)</p>
 
       <form id="form_anagramma" method="post" class="form-horizontal" >
            
